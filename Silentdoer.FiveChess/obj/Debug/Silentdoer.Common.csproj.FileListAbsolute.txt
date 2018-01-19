@@ -1,0 +1,5 @@
+W:\VS2015\状态模式五子棋控制台实现\Silentdoer.Common\bin\Debug\Silentdoer.Common.dll
+W:\VS2015\状态模式五子棋控制台实现\Silentdoer.Common\bin\Debug\Silentdoer.Common.pdb
+W:\VS2015\状态模式五子棋控制台实现\Silentdoer.Common\obj\Debug\Silentdoer.Common.csprojResolveAssemblyReference.cache
+W:\VS2015\状态模式五子棋控制台实现\Silentdoer.Common\obj\Debug\Silentdoer.Common.dll
+W:\VS2015\状态模式五子棋控制台实现\Silentdoer.Common\obj\Debug\Silentdoer.Common.pdb

@@ -1,0 +1,5 @@
+W:\VS2015\状态模式五子棋控制台实现\Silentdoer.FiveChess\bin\Debug\Silentdoer.FiveChess.dll
+W:\VS2015\状态模式五子棋控制台实现\Silentdoer.FiveChess\bin\Debug\Silentdoer.FiveChess.pdb
+W:\VS2015\状态模式五子棋控制台实现\Silentdoer.FiveChess\obj\Debug\Silentdoer.FiveChess.csprojResolveAssemblyReference.cache
+W:\VS2015\状态模式五子棋控制台实现\Silentdoer.FiveChess\obj\Debug\Silentdoer.FiveChess.dll
+W:\VS2015\状态模式五子棋控制台实现\Silentdoer.FiveChess\obj\Debug\Silentdoer.FiveChess.pdb

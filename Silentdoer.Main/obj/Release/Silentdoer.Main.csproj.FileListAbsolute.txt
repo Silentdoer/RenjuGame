@@ -1,0 +1,8 @@
+W:\VS2015\状态模式五子棋控制台实现\Silentdoer.Main\bin\Release\Silentdoer.Main.exe.config
+W:\VS2015\状态模式五子棋控制台实现\Silentdoer.Main\bin\Release\Silentdoer.Main.exe
+W:\VS2015\状态模式五子棋控制台实现\Silentdoer.Main\bin\Release\Silentdoer.Main.pdb
+W:\VS2015\状态模式五子棋控制台实现\Silentdoer.Main\bin\Release\Silentdoer.FiveChess.dll
+W:\VS2015\状态模式五子棋控制台实现\Silentdoer.Main\bin\Release\Silentdoer.FiveChess.pdb
+W:\VS2015\状态模式五子棋控制台实现\Silentdoer.Main\obj\Release\Silentdoer.Main.csprojResolveAssemblyReference.cache
+W:\VS2015\状态模式五子棋控制台实现\Silentdoer.Main\obj\Release\Silentdoer.Main.exe
+W:\VS2015\状态模式五子棋控制台实现\Silentdoer.Main\obj\Release\Silentdoer.Main.pdb

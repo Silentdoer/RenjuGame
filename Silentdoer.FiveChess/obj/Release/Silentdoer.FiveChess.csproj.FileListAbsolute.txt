@@ -1,0 +1,4 @@
+W:\VS2015\状态模式五子棋控制台实现\Silentdoer.FiveChess\bin\Release\Silentdoer.FiveChess.dll
+W:\VS2015\状态模式五子棋控制台实现\Silentdoer.FiveChess\bin\Release\Silentdoer.FiveChess.pdb
+W:\VS2015\状态模式五子棋控制台实现\Silentdoer.FiveChess\obj\Release\Silentdoer.FiveChess.dll
+W:\VS2015\状态模式五子棋控制台实现\Silentdoer.FiveChess\obj\Release\Silentdoer.FiveChess.pdb
